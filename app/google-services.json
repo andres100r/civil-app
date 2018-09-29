@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "670855215709",
+    "firebase_url": "https://cityalerta-3ddee.firebaseio.com",
+    "project_id": "cityalerta-3ddee",
+    "storage_bucket": "cityalerta-3ddee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670855215709:android:f77d318e1c70c496",
+        "android_client_info": {
+          "package_name": "com.example.user.cityalerta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670855215709-a1mm0ab0imsdp8ko8u7gmojnd4b7skhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.cityalerta",
+            "certificate_hash": "ccef5655d7be951cc1ae1b8d98360e8b0ec3fc66"
+          }
+        },
+        {
+          "client_id": "670855215709-a826f6jn03ne6mr0f5ca2qs4kslk6826.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqL4fSA6DQjjcjHWpuVYbaOgqaferX5uY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670855215709-a826f6jn03ne6mr0f5ca2qs4kslk6826.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
